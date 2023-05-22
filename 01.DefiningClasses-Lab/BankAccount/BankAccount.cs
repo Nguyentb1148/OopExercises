@@ -1,4 +1,4 @@
-namespace OOPCSharpExercises.Bank.BankAccount
+namespace OOPCSharpExercises.DefiningClasses_Lab.BankAccount
 {
     public class BankAccount
     {

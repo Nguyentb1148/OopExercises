@@ -1,8 +1,7 @@
 using System;
 using System.Collections.Generic;
-using System.Globalization;
 
-namespace OOPCSharpExercises.Bank.Person
+namespace OOPCSharpExercises.DefiningClasses_Lab.Person
 {
     public class Startup
     {

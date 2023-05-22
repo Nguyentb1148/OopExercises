@@ -1,6 +1,6 @@
-namespace OOPCSharpExercises.Bank.TestClient
+namespace OOPCSharpExercises.DefiningClasses_Lab.Person
 {
-    public class BackAccount
+    public class BankAccount
     {
         private int _id;
         private decimal _balance;

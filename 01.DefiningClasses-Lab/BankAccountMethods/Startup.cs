@@ -1,7 +1,7 @@
 using System;
-using OOPCSharpExercises.Bank.TestClient;
+using OOPCSharpExercises.DefiningClasses_Lab.TestClient;
 
-namespace OOPCSharpExercises.Bank.BankAccountMethods
+namespace OOPCSharpExercises.DefiningClasses_Lab.BankAccountMethods
 {
     public class Startup
     {

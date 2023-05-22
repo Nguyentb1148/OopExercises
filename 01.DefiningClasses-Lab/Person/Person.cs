@@ -1,8 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.InteropServices;
 
-namespace OOPCSharpExercises.Bank.Person
+namespace OOPCSharpExercises.DefiningClasses_Lab.Person
 {
     public class Person
     {

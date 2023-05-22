@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace OOPCSharpExercises.Bank.TestClient
+namespace OOPCSharpExercises.DefiningClasses_Lab.TestClient
 {
     public class Startup
     {

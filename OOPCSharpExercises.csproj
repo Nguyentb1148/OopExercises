@@ -39,15 +39,30 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Bank\BankAccountMethods\BankAccount.cs" />
-        <Compile Include="Bank\BankAccountMethods\Startup.cs" />
-        <Compile Include="Bank\BankAccount\BankAccount.cs" />
-        <Compile Include="Bank\BankAccount\Startup.cs" />
-        <Compile Include="Bank\Person\BankAccount.cs" />
-        <Compile Include="Bank\Person\Person.cs" />
-        <Compile Include="Bank\Person\Startup.cs" />
-        <Compile Include="Bank\TestClient\BackAccount.cs" />
-        <Compile Include="Bank\TestClient\Startup.cs" />
+        <Compile Include="01.DefiningClasses-Lab\BankAccountMethods\BankAccount.cs" />
+        <Compile Include="01.DefiningClasses-Lab\BankAccountMethods\Startup.cs" />
+        <Compile Include="01.DefiningClasses-Lab\BankAccount\BankAccount.cs" />
+        <Compile Include="01.DefiningClasses-Lab\BankAccount\Startup.cs" />
+        <Compile Include="01.DefiningClasses-Lab\Person\BankAccount.cs" />
+        <Compile Include="01.DefiningClasses-Lab\Person\Person.cs" />
+        <Compile Include="01.DefiningClasses-Lab\Person\Startup.cs" />
+        <Compile Include="01.DefiningClasses-Lab\TestClient\BackAccount.cs" />
+        <Compile Include="01.DefiningClasses-Lab\TestClient\Startup.cs" />
+        <Compile Include="DefiningClasses-Exercises\01.DefineClassPerson\Person.cs" />
+        <Compile Include="DefiningClasses-Exercises\01.DefineClassPerson\StartUp.cs" />
+        <Compile Include="DefiningClasses-Exercises\02.CreatingConstructors\Person.cs" />
+        <Compile Include="DefiningClasses-Exercises\02.CreatingConstructors\Startup.cs" />
+        <Compile Include="DefiningClasses-Exercises\03.OldestFamilyMember\Family.cs" />
+        <Compile Include="DefiningClasses-Exercises\03.OldestFamilyMember\Person.cs" />
+        <Compile Include="DefiningClasses-Exercises\03.OldestFamilyMember\Startup.cs" />
+        <Compile Include="DefiningClasses-Exercises\04.OpinionPoll\Person.cs" />
+        <Compile Include="DefiningClasses-Exercises\04.OpinionPoll\Startup.cs" />
+        <Compile Include="DefiningClasses-Exercises\05.DataModifier\DataModifier.cs" />
+        <Compile Include="DefiningClasses-Exercises\05.DataModifier\Startup.cs" />
+        <Compile Include="DefiningClasses-Exercises\06.CompanyRoster\Employee.cs" />
+        <Compile Include="DefiningClasses-Exercises\06.CompanyRoster\Startup.cs" />
+        <Compile Include="DefiningClasses-Exercises\07.SpeedingRacing\Car.cs" />
+        <Compile Include="DefiningClasses-Exercises\07.SpeedingRacing\Startup.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>

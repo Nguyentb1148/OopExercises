@@ -1,12 +1,12 @@
 using System;
 
-namespace OOPCSharpExercises.Bank.BankAccount
+namespace OOPCSharpExercises.DefiningClasses_Lab.BankAccount
 {
     public class Startup
     {
         public static void BankAccountMain()
         {
-            BankAccount account = new BankAccount();
+            DefiningClasses_Lab.BankAccount.BankAccount account = new DefiningClasses_Lab.BankAccount.BankAccount();
             account.Id = 1;
             account.Balance = 100;
 
