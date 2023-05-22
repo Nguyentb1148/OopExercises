@@ -1,0 +1,6 @@
+/Users/nguyentran/RiderProjects/OOPCSharpExercises/obj/Debug/OOPCSharpExercises.csproj.AssemblyReference.cache
+/Users/nguyentran/RiderProjects/OOPCSharpExercises/obj/Debug/OOPCSharpExercises.csproj.CoreCompileInputs.cache
+/Users/nguyentran/RiderProjects/OOPCSharpExercises/bin/Debug/OOPCSharpExercises.exe
+/Users/nguyentran/RiderProjects/OOPCSharpExercises/bin/Debug/OOPCSharpExercises.pdb
+/Users/nguyentran/RiderProjects/OOPCSharpExercises/obj/Debug/OOPCSharpExercises.exe
+/Users/nguyentran/RiderProjects/OOPCSharpExercises/obj/Debug/OOPCSharpExercises.pdb
